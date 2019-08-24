@@ -1,0 +1,19 @@
+[sources/image_test.cpp:57]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/image_test.cpp:58]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/image_test.cpp:127]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/image_test.cpp:128]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/image_test.cpp:185]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/image_test.cpp:186]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:69]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:70]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:212]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:213]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:372]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:373]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:505]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:506]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:578]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:579]: (style) The scope of the variable 'ticker2' can be reduced.
+[sources/video_test.cpp:650]: (style) The scope of the variable 'ticker1' can be reduced.
+[sources/video_test.cpp:651]: (style) The scope of the variable 'ticker2' can be reduced.
+(information) Cppcheck cannot find all the include files (use --check-config for details)
